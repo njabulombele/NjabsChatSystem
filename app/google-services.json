@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342331431555",
+    "project_id": "njabschatsystem",
+    "storage_bucket": "njabschatsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342331431555:android:b3fd987ef6aca97f2e99b6",
+        "android_client_info": {
+          "package_name": "com.example.njabschatsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCsyjIl-AU_gj8eLGyLXHECbwbRXGOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
